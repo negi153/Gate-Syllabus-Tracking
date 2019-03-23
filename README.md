@@ -1,5 +1,5 @@
 # Gate-Syllabus-Tracking
-With help of this project one can keep the records of the
+It is a Java Based software which will helps the students to keep the records of the
 subject topics which he/she is studying for gate examination.
 
 HOW TO LOAD SQL FILE INTO MYSQL -----  
